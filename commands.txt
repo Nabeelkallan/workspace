@@ -2,4 +2,8 @@ git init -> for initialization
 git status -. list untracked files
 
 git add -A -> adding all files to staging area
-git commit -m "message" -> adding all files to local reprostry
+git commit -m "message" -> adding all files to local repository
+
+git clone=> get exact copy from remote repository
+git push=> local space to remote repository
+git pull=> remote repository to local space
